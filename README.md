@@ -3,9 +3,9 @@
 <h2>IT Projects:</h2>
 
 - <b>Virtual Home Lab With Active Directory</b>
-  - [Setting Up Windows Server 2019](https://github.com/yonathant12/ActiveDirectoryLab/tree/main)
+  - [Setting Up Windows Server 2019](https://github.com/yonathant12/WindowsServer2019/tree/main)
   - [Setting Up Windows Active Directory](https://github.com/yonathant12/ActiveDirectoryLab/tree/main)
-  - [Setting Up Windows 10 Client](https://github.com/yonathant12/ActiveDirectoryLab/tree/main)
+  - [Setting Up Windows 10 Client](https://github.com/yonathant12/Windows10Client/tree/main)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
