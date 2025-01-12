@@ -9,7 +9,7 @@
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Netwok Infrastructure Design on Packet Tracer</b>
-  - [Netwok Infrastructure](https://github.com/yonathant12/WindowsServer2019/tree/main)
+  - [Network Design](https://github.com/yonathant12/WindowsServer2019/tree/main)
 
 <h2>Certifications</h2>
 
