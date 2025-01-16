@@ -7,9 +7,9 @@
   - [Windows Active Directory Setup](https://github.com/yonathant12/ActiveDirectoryLab/tree/main)
   - [Windows 10 Client Setup](https://github.com/yonathant12/Windows10Client/tree/main)
 - <b>Ticketing System</b>
-  - [GLPI Setup]()
-  - [GLPI LDAP Authentication]()
-  - [GLPI Email Integration]()
+  - [GLPI Setup](https://github.com/yonathant12/GLPISetup/tree/main)
+  - [GLPI LDAP Authentication](https://github.com/yonathant12/GLPILDAP/tree/main)
+  - [GLPI Email Integration](https://github.com/yonathant12/GLPIEmail/tree/main)
 - <b>Netwok Infrastructure Design on Packet Tracer</b>
   - [Network Design](https://github.com/yonathant12/NetworkDesign/tree/main)
 
