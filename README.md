@@ -7,7 +7,7 @@
   - [Setting Up Windows Active Directory](https://github.com/yonathant12/ActiveDirectoryLab/tree/main)
   - [Setting Up Windows 10 Client](https://github.com/yonathant12/Windows10Client/tree/main)
 - <b>Ticketing System</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Image Analysis Middleware]()
 - <b>Netwok Infrastructure Design on Packet Tracer</b>
   - [Network Design](https://github.com/yonathant12/NetworkDesign/tree/main)
 
