@@ -3,9 +3,9 @@
 <h2>IT Projects:</h2>
 
 - <b>Active Directory Virtual Home Lab</b>
-  - [Setting Up Windows Server 2019](https://github.com/yonathant12/WindowsServer2019/tree/main)
-  - [Setting Up Windows Active Directory](https://github.com/yonathant12/ActiveDirectoryLab/tree/main)
-  - [Setting Up Windows 10 Client](https://github.com/yonathant12/Windows10Client/tree/main)
+  - [Windows Server 2019 Setup](https://github.com/yonathant12/WindowsServer2019/tree/main)
+  - [Windows Active Directory Setup](https://github.com/yonathant12/ActiveDirectoryLab/tree/main)
+  - [Windows 10 Client Setup](https://github.com/yonathant12/Windows10Client/tree/main)
 - <b>Ticketing System</b>
   - [GLPI Setup]()
   - [GLPI LDAP Authentication]()
