@@ -10,7 +10,7 @@
   - [GLPI Setup](https://github.com/yonathant12/GLPISetup/tree/main)
   - [GLPI LDAP Authentication](https://github.com/yonathant12/GLPILDAP/tree/main)
   - [GLPI Email Integration](https://github.com/yonathant12/GLPIEmail/tree/main)
-- <b>Netwok Infrastructure Design on Packet Tracer</b>
+- <b>Network Infrastructure Design on Packet Tracer</b>
   - [Network Design](https://github.com/yonathant12/NetworkDesign/tree/main)
 
 <h2>Certifications</h2>
